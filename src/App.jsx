@@ -108,6 +108,9 @@ export default function App() {
             { name: "SQL", img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" },
             { name: "React", img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" },
             { name: "Spring Boot", img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" }
+            { name: "Arduino", img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" },
+            { name: "ESP32", img: "https://wiki.52pi.com/images/5/53/Esp32.png" },
+            { name: "Python", img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" },
           ].map(skill => (
             <div key={skill.name} className="skill-card">
               <img src={skill.img} alt={skill.name} />
