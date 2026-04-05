@@ -39,7 +39,7 @@ export default function App() {
     transition={{ delay: 0.3 }}
     className="description"
   >
-    I build scalable web applications and intelligent IoT systems that solve real-world problems.
+    Passionate about building scalable web applications and exploring the world of IoT. I love turning ideas into reality through code and am always eager to learn new technologies.
   </motion.p>
 
   {/* CV Button */}
